@@ -1,5 +1,5 @@
 {
-  "settingsInheritedFrom": "<your-organization name>/whitesource-config@main",
+  "settingsInheritedFrom": "joshrup/whitesource-config@main",
   "remediateSettings": {
     "workflowRules": {
       "enabled": true
